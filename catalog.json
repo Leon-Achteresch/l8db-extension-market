@@ -9,6 +9,15 @@
       "publisher": "l8db",
       "package": "packages/l8db.jev-1.0.0.l8db-extension",
       "sha256": "f931c55670701737da9140d9d8e93c3098a708b7ddd09bcb9f2ca4237b8a5f08"
+    },
+    {
+      "id": "l8db.password-manager",
+      "name": "Passwortmanager-Sync",
+      "description": "Lädt und speichert Verbindungen samt Passwort in Keeper, Bitwarden oder 1Password über deren offizielle CLI.",
+      "version": "1.0.0",
+      "publisher": "l8db",
+      "package": "packages/l8db.password-manager-1.0.0.l8db-extension",
+      "sha256": "f7ba080bcb1bb4698967a1befe1b3038a13a86f5adad64d2da783ee2e365b8ec"
     }
   ]
 }
