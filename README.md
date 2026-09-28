@@ -8,8 +8,8 @@
 
 ## Jev
 
-`packages/l8db.jev-1.0.0.l8db-extension` ist das installierbare Paket. Der Quellcode liegt unter `source/jev/`; die lokale Entwicklungsfassung im l8db-Projekt liegt direkt unter `/extention`. Details zu BYOK und den übertragenen Planmerkmalen stehen in [source/jev/README.md](source/jev/README.md).
+`packages/l8db.jev-1.1.0.l8db-extension` ist das installierbare Paket. Der Quellcode liegt unter `source/jev/`; die lokale Entwicklungsfassung im l8db-Projekt liegt direkt unter `/extention`. Details zu BYOK und den übertragenen Planmerkmalen stehen in [source/jev/README.md](source/jev/README.md).
 
 ## Passwortmanager-Sync
 
-`packages/l8db.password-manager-1.0.0.l8db-extension` lädt und speichert l8db-Verbindungen in Keeper, Bitwarden oder 1Password über deren offizielle CLI und kann die CLIs per Button installieren. Benötigt l8db 0.7.0 oder neuer. Quellcode unter `source/password-manager/`, Details in [source/password-manager/README.md](source/password-manager/README.md).
+`packages/l8db.password-manager-1.4.1.l8db-extension` lädt und speichert l8db-Verbindungen in Keeper, Bitwarden oder 1Password über deren offizielle CLI und kann die CLIs per Button installieren. Benötigt l8db 0.7.0 oder neuer. Quellcode unter `source/password-manager/`, Details in [source/password-manager/README.md](source/password-manager/README.md).
