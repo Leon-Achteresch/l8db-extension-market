@@ -13,11 +13,11 @@
     {
       "id": "l8db.password-manager",
       "name": "Passwortmanager-Sync",
-      "description": "Lädt und speichert Verbindungen samt Passwort in Keeper, Bitwarden oder 1Password über deren offizielle CLI.",
-      "version": "1.5.0",
+      "description": "Lädt und speichert Verbindungen samt Passwort in Keeper, Bitwarden, 1Password oder OpenBao über deren offizielle CLI, bei OpenBao mit Anmeldung im Browser per SSO.",
+      "version": "1.6.0",
       "publisher": "l8db",
-      "package": "packages/l8db.password-manager-1.5.0.l8db-extension",
-      "sha256": "db60632ea095a51aee0497508bfc764ec848790abb9d83d0d1703071ce94ec86"
+      "package": "packages/l8db.password-manager-1.6.0.l8db-extension",
+      "sha256": "6f1e4b34d35d730c1b33ed691153b250c493d12298c8a0f03e38d0a46882ba41"
     }
   ]
 }
