@@ -12,4 +12,4 @@
 
 ## Passwortmanager-Sync
 
-`packages/l8db.password-manager-1.4.1.l8db-extension` lädt und speichert l8db-Verbindungen in Keeper, Bitwarden oder 1Password über deren offizielle CLI und kann die CLIs per Button installieren. Benötigt l8db 0.7.0 oder neuer. Quellcode unter `source/password-manager/`, Details in [source/password-manager/README.md](source/password-manager/README.md).
+`packages/l8db.password-manager-1.5.0.l8db-extension` lädt und speichert l8db-Verbindungen in Keeper, Bitwarden oder 1Password über deren offizielle CLI und kann die CLIs per Button installieren. Benötigt l8db 0.7.0 oder neuer. Quellcode unter `source/password-manager/`, Details in [source/password-manager/README.md](source/password-manager/README.md).
